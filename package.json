@@ -1,0 +1,26 @@
+{
+  "name": "Yearn-Defi-Wallet",
+  "version": "1.0.0",
+  "description": "Simple Defi wallet which manages Token Spending and Invests In Yearn.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidheartx/Yearn-Defi-Wallet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sidheartx/Yearn-Defi-Wallet/issues"
+  },
+  "homepage": "https://github.com/Sidheartx/Yearn-Defi-Wallet#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1"
+  }
+}
